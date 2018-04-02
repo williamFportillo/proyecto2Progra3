@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/main.cpp
+iostream
+-
+matrices.h
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/matrices.h
+
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/matrices.cpp
+matrices.h
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/matrices.h
+fstream
+-
+iostream
+-
+cstring
+-
+nodo.h
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/nodo.h
+
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/matrices.h
+iostream
+-
+nodo.h
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/nodo.h
+
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/nodo.cpp
+nodo.h
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/nodo.h
+iostream
+-
+
+C:/Users/WilliamPC/CLionProjects/Proyecto2Progra3/nodo.h
+
